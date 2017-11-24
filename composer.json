@@ -1,0 +1,17 @@
+{
+  "name": "greabock/arithmetics",
+  "description": "description_text",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Greabock",
+      "email": "greabock@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4" : {
+      "Greabock\\Arithmetics\\" : "src/"
+    }
+  }
+}
